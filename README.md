@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2026-03-22 at 7 59 35 AM](https://github.com/user-attachments/assets/1528a516-a74c-4175-a6bf-779c9f3496dc)
 Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
@@ -75,19 +75,19 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## TABULATION  
 **Transmission through Digital Link**
+![WhatsApp Image 2026-03-22 at 7 59 35 AM](https://github.com/user-attachments/assets/ba5bdec5-a677-4a0e-8e8f-de838f74f3dc)
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+
 
 ---
 
-## MODEL GRAPH
+##  GRAPH
 
-*(Insert model graph here)*
+![WhatsApp Image 2026-03-22 at 8 08 25 AM (1)](https://github.com/user-attachments/assets/691d34d2-3d4e-4b0c-ba9c-37124f5b6384)
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the relationship between input and received signal of a 600nm fiber optic cable using digital link is verified successfully.
