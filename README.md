@@ -1,4 +1,3 @@
-![WhatsApp Image 2026-03-22 at 7 59 35 AM](https://github.com/user-attachments/assets/1528a516-a74c-4175-a6bf-779c9f3496dc)
 Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
