@@ -30,6 +30,9 @@ SFH-551V is a digital optodetector. It delivers a digital output, which can be p
 
 The photodiode converts the detected light into a photocurrent. With the aid of an integrated lens the light emanating from the plastic Fiber is almost entirely focused on the surface of the diode. At the next stage the trans-impedance amplifier converts the photocurrent into a voltage. In the comparator, the voltage is compared to a reference voltage. In over to ensure good synchronism between the reference and the trans- impedance output voltage, the former is derived from a second circuit of a similar kind, which incorporates a “blind” photodiode. The comparator derives a level shifter with an open collector output stages. Here a catch diode (similar to Schottky-TTL) prevents the saturation of the output transistor, thus limiting the output voltage to the supply voltage.
 
+## Block Diagram
+<img width="723" height="423" alt="image" src="https://github.com/user-attachments/assets/b7950ba8-e9d6-4832-9ec8-4c48f37c1a6d" />
+
 ---
 
 ## PROCEDURE
